@@ -42,18 +42,21 @@ I am currently working as a **Process Associate at Amazon**, but my passion lies
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaja39&show_icons=true&theme=radical" height="180" alt="Khaja39's stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaja39&layout=compact&theme=radical" height="180" alt="Khaja39's languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Khaja39&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Khaja39's Trophies" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Khaja39&theme=radical" alt="Khaja39's streak" />
-</div>
 ---
+
+### 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaja39&theme=react-dark" />
+</div>
 
 ### 🔗 Connect with Me
 

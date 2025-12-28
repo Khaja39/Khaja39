@@ -45,14 +45,14 @@ I am currently working as a **Process Associate at Amazon**, but my passion lies
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaja39&show_icons=true&theme=radical&count_private=true" height="180" alt="Khaja39's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaja39&show_icons=true&theme=radical" height="180" alt="Khaja39's stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaja39&layout=compact&theme=radical" height="180" alt="Khaja39's languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaja39&theme=radical" alt="Khaja39's streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Khaja39&theme=radical" alt="Khaja39's streak" />
 </div>
-
 ---
 
 ### 🔗 Connect with Me
